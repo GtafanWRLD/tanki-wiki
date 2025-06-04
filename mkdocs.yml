@@ -1,0 +1,22 @@
+site_name: Tanki Wiki
+site_url: https://gtafanwrld.github.io/tanki-wiki/
+theme:
+  theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+    - toc.integrate
+  palette:
+    scheme: slate
+    primary: blue
+    accent: teal
+
+nav:
+  - Home: index.md
+  - Getting Started: getting_started.md
+  - About: about.md
+  - Mods: mods.md
+  # etc.
