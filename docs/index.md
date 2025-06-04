@@ -12,8 +12,6 @@ Enjoy exploring the wiki!
 
 ---
 
-Use the sidebar to navigate through the different sections.
-
 If you’d like to contribute or have suggestions, feel free to [join our discord](https://discord.gg/NstYRK8q8T).
 
 Happy tanking!
