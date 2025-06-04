@@ -6,12 +6,12 @@ This site is dedicated to everything Tanki (Mir Tankov) for English speaking use
 
 Use the sidebar to navigate through different sections.
 
-If you have suggestions or want to contribute, feel free to reach out.
+If you’d like to contribute or have suggestions, feel free to [join our discord](https://discord.gg/NstYRK8q8T).
 
-Enjoy exploring the wiki!
+Enjoy exploring the wiki & Happy tanking!
 
 ---
 
-If you’d like to contribute or have suggestions, feel free to [join our discord](https://discord.gg/NstYRK8q8T).
 
-Happy tanking!
+
+
