@@ -7,21 +7,33 @@
 
 ## How to Get the Game
 
- **Go to the official website:**  
+1. **Go to the official website:**  
    Download the game client from [Mir Tankov Website](https://tanki.su/ru/game/download/).  
 
 
    ![Launcher Screenshot](assets/MainSite1.png)
 
 
-3. **Install the game:**  
+2. **Install the game:**  
    Run the installer and follow the setup steps.
 
 3. **Create an account:**  
-   Sign up using your email, or log in if you already have an account.
+   Sign up using your email, or log in if you already have an account; <br>
+   If you don't go to [Mir Tankov Registeration Website](https://lesta.ru/registration/ru/?bonus_mode=TANKISU).
 
 4. **Launch and play:**  
    Open the game, log in, and you’re ready to go.
+
+---
+
+## How to install the Translation
+
+1. **Getting the Installer:**    
+   Go to our [GitHub site](github.com/LocalizedTanki/Tanki-L10nManager/releases/latest) and download the latest version of the installer.
+
+2. **Installing the mod:**    
+   Run it, Accept the agreement and select the language you need (English by default); <br>
+   And if you want your Game Center to get extra languages aswell.
 
 ---
 

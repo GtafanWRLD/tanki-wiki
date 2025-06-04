@@ -17,6 +17,7 @@ theme:
 nav:
   - Home: index.md
   - Getting Started: getting_started.md
+  - Purchases: payment_ways.md
   - About: about.md
   - Mods: mods.md
   # etc.
