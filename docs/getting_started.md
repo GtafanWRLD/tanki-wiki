@@ -29,7 +29,7 @@
 ## How to install the Translation
 
 1. **Getting the Installer:**    
-   Go to our [GitHub site](github.com/LocalizedTanki/Tanki-L10nManager/releases/latest) and download the latest version of the installer.
+   Go to our [GitHub site](https://github.com/LocalizedTanki/Tanki-L10nManager/releases/latest) and download the latest version of the installer.
 
 2. **Installing the mod:**    
    Run it, Accept the agreement and select the language you need (English by default); <br>

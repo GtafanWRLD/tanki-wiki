@@ -18,7 +18,7 @@
 ## **Belarus method**
 
    This method requires you to have your account PoR (Place of Residence) set to Belarus and owning a MasterCard.<br>
-   If you do, follow my steps:      
+??? note "If you do, reveal the steps!"     
       1. You choose the item you want to purchase in the Premium Store.     
       2. Choose the "ЕРИП" payment method.      
       3. Click "Перейти к оплате".      
@@ -40,6 +40,6 @@
 ## **Russian Federation method**   
 
    This method requires you to have your account PoR (Place of Residence) set to Russian Federation.<br>
-   You go to [FunPay](https://funpay.com/lots/1062/) and from there you have a lot of offers to choose from.<br><br> 
-   **WARNING**<br>
-   Make sure the seller has a bigger amount of reviews (like [BarsShop](https://funpay.com/users/1195807/)) and that the items are not under the price of what is in game.
+   You go to [FunPay](https://funpay.com/lots/1062/) and from there you have a lot of offers to choose from.<br> 
+!!! warning
+      Make sure the seller has a bigger amount of reviews (like [BarsShop](https://funpay.com/users/1195807/)) and that the items are not under the price of what is in game.
