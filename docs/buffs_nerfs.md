@@ -1,3 +1,4 @@
 # Rebalances changes between Lesta and WG
 
-> Currently WIP
+!!! warning
+    Currently WIP
