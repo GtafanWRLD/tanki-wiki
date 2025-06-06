@@ -46,5 +46,5 @@ If you run into any issues installing or running the game, check our FAQ or hop 
 ## Next Steps
 
 - [Purchases](payment_ways.md)
-- [Rebalaces](buffs_nerfs.md) (WIP)
+- [Rebalances](buffs_nerfs.md) (WIP)
 - [Mods](mods.md)
