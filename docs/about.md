@@ -1,6 +1,7 @@
 # About
 
-**Tanki Wiki** is an open resource for all things Tanki (Mir Tankov).  
+**Tanki Wiki** is an open resource for all things Tanki (Мир танков).
+
 The goal of this wiki is to provide detailed, up-to-date information on the game, including mechanics, tanks, guides, and modding.
 
 This project is community-driven and always open to contributions, feedback, or corrections.

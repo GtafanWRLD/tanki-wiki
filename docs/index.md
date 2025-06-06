@@ -2,7 +2,7 @@
 
 
 
-This site is dedicated to everything Tanki (Mir Tankov) for English speaking users. Here you’ll find guides , details on events, game modes, modding resources payment tutorials and so on.
+This site is dedicated to everything Tanki (Мир танков) for English speaking users. Here you’ll find guides, details on events, game modes, modding resources payment tutorials and so on.
 
 Use the sidebar to navigate through different sections.
 

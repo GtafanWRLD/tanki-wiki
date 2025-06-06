@@ -45,6 +45,6 @@ If you run into any issues installing or running the game, check our FAQ or hop 
 
 ## Next Steps
 
-- [Beginner’s Guide](beginner-guide.md) (coming soon)
-- [Troubleshooting](troubleshooting.md) (coming soon)
-- [Game Basics](game-basics.md) (coming soon)
+- [Purchases](payment_ways.md)
+- [Rebalaces](buffs_nerfs.md) (WIP)
+- [Mods](mods.md)
