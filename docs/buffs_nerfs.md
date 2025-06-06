@@ -122,7 +122,7 @@
     ---
     ![M48 Patton](assets/tanks/m48patton.png)<br>
     **M48 Patton**<br><br>
-    *Gun*
+    *Gun*<br>
     **Aim time** 1.73 ![Nerf](assets/buff-nerf/nerf.png) **1.82**<br>
     **Dispersion** 0.34 ![Nerf](assets/buff-nerf/nerf.png) **0.35**<br>
     **Moving dispersion** 0.10 ![Buff](assets/buff-nerf/buff.png) **0.08**<br>
@@ -141,7 +141,7 @@
 ??? spoiler "![France](assets/nations/France.png) France"
     ![AMX 30 B](assets/tanks/amx30b.png)<br>
     **AMX 30 B**<br><br>
-    *Gun*
+    *Gun*<br>
     **DPM** 3 129 ![Buff](assets/buff-nerf/buff.png) **3 348**<br>
     **Damage** 390 ![Buff](assets/buff-nerf/buff.png) **420**<br>
     **Reload time** 7.48 ![Nerf](assets/buff-nerf/nerf.png) **7.53**<br>
@@ -150,19 +150,19 @@
     ---
     ![AMX 50 B](assets/tanks/amx50b.png)<br>
     **AMX 50 B**<br><br>
-    *Gun*
+    *Gun*<br>
     **DPM** 2 647 ![Nerf](assets/buff-nerf/nerf.png) **2 618**<br>
     **Reload time (clip)** 28.76 ![Nerf](assets/buff-nerf/nerf.png) **29.16**<br>
     **Aim time** 2.40 ![Buff](assets/buff-nerf/buff.png) **2.21**<br>
     **Dispersion** 0.34 ![Buff](assets/buff-nerf/buff.png) **0.32**<br><br>
-    *Health and armor*
+    *Health and armor*<br>
     **HP** 2 100 ![Buff](assets/buff-nerf/buff.png) **2 300**<br>
 
 ## United Kingdom
 ??? spoiler "![UK](assets/nations/UK.png) United Kingdom"
     ![Concept 5](assets/tanks/concept5.png)<br>
     **Concept 5**<br><br>
-    *Gun*
+    *Gun*<br>
     **DPM** 2 300 ![Buff](assets/buff-nerf/buff.png) **2 609**<br>
     **Reload time** 11.22 ![Buff](assets/buff-nerf/buff.png) **9.89**<br>
     **Aim time** 1.73 ![Nerf](assets/buff-nerf/nerf.png) **1.82**<br>
