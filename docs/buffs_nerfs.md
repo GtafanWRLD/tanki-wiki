@@ -72,7 +72,7 @@
     ![K-91](assets/tanks/k91.png)<br>
     **K-91**<br><br>
     *Gun*<br>
-    **DPM** 3 034 ![Nerf](assets/buff-nerf/nerf.png) **3 179**<br>
+    **DPM** 3 513 ![Nerf](assets/buff-nerf/nerf.png) **3 179**<br>
     **Reload time** 5.47 ![Nerf](assets/buff-nerf/nerf.png) **6.04**<br>
     **Dispersion** 0.32 ![Buff](assets/buff-nerf/buff.png) **0.29**<br>
     **Moving dispersion** 0.14 ![Buff](assets/buff-nerf/buff.png) **0.10**<br>
