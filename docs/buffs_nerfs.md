@@ -63,8 +63,8 @@
     **Dispersion** 0.33  ![Buff](assets/buff-nerf/buff.png) **0.31**<br><br>
     *Mobility*<br>
     **Forward speed** 50 ![Buff](assets/buff-nerf/buff.png) **57**<br>
-    **Forward top speed (h/m/s)** 50/50/45.1 ![Buff](assets/buff-nerf/buff.png) **57/57/55.1**<br><br>
-    **Power/weight** 16.57 ![Buff](assets/buff-nerf/buff.png) **20.27**<br>
+    **Forward top speed (h/m/s)** 50/50/45.1 ![Buff](assets/buff-nerf/buff.png) **57/57/55.1**<br>
+    **Power/weight** 16.57 ![Buff](assets/buff-nerf/buff.png) **20.27**<br><br>
     *Other*<br>
     **Stationary camo** 15.28 ![Buff](assets/buff-nerf/buff.png) **17.95**<br>
     **Moving camo** 11.46 ![Buff](assets/buff-nerf/buff.png) **13.45**<br>
