@@ -4,7 +4,7 @@
     This page is still WIP, it can be lacking some tanks.<br>
     Nations missing: ![China](assets/nations/China.png) China, ![Japan](assets/nations/Japan.png) Japan, ![Poland](assets/nations/Poland.png) Poland, ![Sweden](assets/nations/Sweden.png) Sweden, ![Italy](assets/nations/Italy.png) Italy
 
-!!! tip "Aditional information"
+!!! tip "Additional information"
     All tanks in here are sorted by the nation. Click on the nation you are looking for to show the rebalances in that nation.<br>
     The page is currenlty containing only tier X tech tree vehicles.
     We are comparing **WG to Lesta stats** on this page.
