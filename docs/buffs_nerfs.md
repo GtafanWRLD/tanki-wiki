@@ -530,7 +530,7 @@
     **Damage (standard/premium)** 230/180 ![Buff](assets/buff-nerf/buff.png) **245/200**<br>
     **Reload time** 12.46 ![Buff](assets/buff-nerf/nerf.png) **14.29**<br><br>
     *Reload speed*<br>
-    **DPM (with Standard ammo)** 4 693 ![Buff](assets/buff-nerf/nerf.png) **4 859**<br>
+    **DPM (with Standard ammo)** 4 693 ![Buff](assets/buff-nerf/buff.png) **4 859**<br>
     **Damage (standard/premium)** 360/290 ![Buff](assets/buff-nerf/buff.png) **365/290**<br>
     **Reload time** 4.6 ![Buff](assets/buff-nerf/buff.png) **4.51**<br><br>
     *Autoloader (bigger alpha)*<br>
