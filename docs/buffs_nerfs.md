@@ -256,11 +256,11 @@
     *Double gun*<br>
     **DPM** (with Standard ammo) 3 681 ![Nerf](assets/buff-nerf/nerf.png) **3 663**<br>
     **Damage** 500/400 ![Nerf](assets/buff-nerf/nerf.png) **480/380**<br>
-    **Reload time** 8.15 ![Buff](assets/buff-nerf/buff.png) **7.86**<br><br>
+    **Reload time** 8.15/8.15 ![Buff](assets/buff-nerf/buff.png) **7.86/7.86**<br><br>
     *Damage per shot*<br>
     **DPM** (with Standard ammo) 3 817 ![Buff](assets/buff-nerf/buff.png) **3 861**<br>
     **Damage** (standard/premium) 610/490 ![Nerf](assets/buff-nerf/nerf.png) **580/460**<br>
-    **Reload time** 8.15/8.15 ![Buff](assets/buff-nerf/buff.png) **7.86/7.86**
+    **Reload time** 9.59 ![Buff](assets/buff-nerf/buff.png) **9.01**
     ---
     ![Walküre](assets/steelhunter/walkure.png)<br>
     ![Germany](assets/nations/Germany.png) **Walküre**<br><br>
@@ -299,7 +299,7 @@
     *Reload speed*<br>
     **DPM (with Standard ammo)** 3 833 ![Nerf](assets/buff-nerf/nerf.png) **3 754**<br>
     **Damage (standard/premium)** 490/390 ![Nerf](assets/buff-nerf/nerf.png) **480/380**<br><br>
-    *Daper shot*<br>
+    *Damage per shot*<br>
     **Damage (standard/premium)** 720/575 ![Nerf](assets/buff-nerf/nerf.png) **690/545**<br>
     **Reload time** 11.51 ![Buff](assets/buff-nerf/buff.png) **11.03**
     ---
@@ -355,11 +355,11 @@
     **DPM (with Standard ammo)** 2 503 ![Buff](assets/buff-nerf/buff.png) **3 754**<br>
     **Penetration (standard/premium)** 155/191 ![Buff](assets/buff-nerf/buff.png) **170/220**<br>
     **Reload time** 7.19/7.19 ![Buff](assets/buff-nerf/buff.png) **4.79/4.79**<br>
+    **Charge time** 1 ![Nerf](assets/buff-nerf/nerf.png) **1.5**<br>
     **Shell velocity (standard/premium)** 1 000/1 200 ![Nerf](assets/buff-nerf/nerf.png) **600/900**<br><br>
     *Autoloader*<br>
     **DPM (with Standard ammo)** 3 066 ![Buff](assets/buff-nerf/buff.png) **3 886**<br>
     **Penetration (standard/premium)** 135/145 ![Buff](assets/buff-nerf/buff.png) **150/200**<br>
-    **Charge time** 1 ![Nerf](assets/buff-nerf/nerf.png) **1.5**<br>
     **Shell velocity (standard/premium)** 1 000/1 200 ![Nerf](assets/buff-nerf/nerf.png) **600/900**<br><br>
     ![Hull upgrade](assets/steelhunter/tier_5_hull.png)<br>
     *Rotation speed*<br>
@@ -379,11 +379,10 @@
     *Double gun*<br>
     **DPM (with Standard ammo)** 3 598 ![Buff](assets/buff-nerf/buff.png) **4 569**<br>
     **Penetration (standard/premium)** 200/238 ![Buff](assets/buff-nerf/buff.png) **230/280**<br>
-    **Reload time** 7.67 ![Buff](assets/buff-nerf/buff.png) **6.04**<br>
+    **Reload time** 7.67/7.67 ![Buff](assets/buff-nerf/buff.png) **6.04/6.04**<br>
     **Charge time** 1 ![Nerf](assets/buff-nerf/nerf.png) **1.5**<br>
     **Shell velocity (standard/premium)** 1 000/1 200 ![Nerf](assets/buff-nerf/nerf.png) **600/900**<br>
     **Dispersion** 0.29 ![Nerf](assets/buff-nerf/nerf.png) **0.34**<br>
-    **Charge time** 1 ![Nerf](assets/buff-nerf/nerf.png) **1.5**<br><br>
     *HE-shell damage*<br>
     **DPM (with Standard HE)** 6 983 ![Nerf](assets/buff-nerf/nerf.png) **5 718**<br>
     **DPM (with Premium HE)** 4 073 ![Buff](assets/buff-nerf/buff.png) **4 551**<br>
@@ -497,7 +496,7 @@
     **Maximum damage** 600 ![Buff](assets/buff-nerf/buff.png) **625**<br>
     **Number of strikes** 6 ![Buff](assets/buff-nerf/nerf.png) **5**<br>
     **Damage per strike** 100 ![Buff](assets/buff-nerf/buff.png) **125**<br>
-    ***Surging Fervor:*** ![Buff](assets/buff-nerf/nerf.png) Electric Discharge doesn't charge it up<br><br>
+    ***Surging Fervor:*** ![Buff](assets/buff-nerf/nerf.png) Electric Discharge doesn't charge it up.<br><br>
     ![Stock](assets/steelhunter/tier_1.png)<br>
     *Gun*<br>
     **DPM (with Standard ammo)** 3 474 ![Buff](assets/buff-nerf/nerf.png) **3 105**<br>
@@ -527,11 +526,11 @@
     **HP boost** 300 ![Buff](assets/buff-nerf/buff.png) **400**<br><br>
     ![Gun upgrade](assets/steelhunter/tier_7_gun.png)<br>
     *Autoloader (lower alpha)*<br>
-    **DPM (with Standard ammo)** 4 693 ![Buff](assets/buff-nerf/buff.png) **4 859**<br>
+    **DPM (with Standard ammo)** 4 500 ![Buff](assets/buff-nerf/nerf.png) **4 419**<br>
     **Damage (standard/premium)** 230/180 ![Buff](assets/buff-nerf/buff.png) **245/200**<br>
     **Reload time** 12.46 ![Buff](assets/buff-nerf/nerf.png) **14.29**<br><br>
     *Reload speed*<br>
-    **DPM (with Standard ammo)** 4 693 ![Buff](assets/buff-nerf/nerf.png) **4 568**<br>
+    **DPM (with Standard ammo)** 4 693 ![Buff](assets/buff-nerf/nerf.png) **4 859**<br>
     **Damage (standard/premium)** 360/290 ![Buff](assets/buff-nerf/buff.png) **365/290**<br>
     **Reload time** 4.6 ![Buff](assets/buff-nerf/buff.png) **4.51**<br><br>
     *Autoloader (bigger alpha)*<br>
