@@ -240,9 +240,9 @@
     **Reload time** 7.96 ![Buff](assets/buff-nerf/buff.png) **6.9**<br><br>
     ![Hull upgrade](assets/steelhunter/tier_5_hull.png)<br>
     *Hitpoints*<br>
-    **HP** 2 000 ![Buff](assets/buff-nerf/buff.png) **2 200**<br>
+    **HP boost** 700 ![Nerf](assets/buff-nerf/nerf.png) **600**<br>
     *Armor*<br>
-    **HP** 1 700 ![Buff](assets/buff-nerf/buff.png) **1 900**<br><br>
+    **HP boost** 400 ![Nerf](assets/buff-nerf/nerf.png) **300**<br><br>
     ![Turret upgrade](assets/steelhunter/tier_6_turret.png)<br>
     *Rotation speed*<br>
     **HP boost** 500 ![Buff](assets/buff-nerf/buff.png) **600**<br><br>
@@ -260,7 +260,7 @@
     *Damage per shot*<br>
     **DPM** (with Standard ammo) 3 817 ![Buff](assets/buff-nerf/buff.png) **3 861**<br>
     **Damage** (standard/premium) 610/490 ![Nerf](assets/buff-nerf/nerf.png) **580/460**<br>
-    **Reload time** 9.59 ![Buff](assets/buff-nerf/buff.png) **9.01**
+    **Reload time** 8.15/8.15 ![Buff](assets/buff-nerf/buff.png) **7.86/7.86**
     ---
     ![Walküre](assets/steelhunter/walkure.png)<br>
     ![Germany](assets/nations/Germany.png) **Walküre**<br><br>
@@ -283,11 +283,9 @@
     **DPM (with Standard ammo)** 2 878 ![Buff](assets/buff-nerf/buff.png) **3 059**<br>
     **Penetration (standard/premium)** 170/210 ![Nerf](assets/buff-nerf/nerf.png) **160/200**<br>
     **Damage (standard/premium)** 460/370 ![Nerf](assets/buff-nerf/nerf.png) **440/350**<br><br>
-    ![Hull upgrade](assets/steelhunter/tier_5_hull.png)<br>
-    *Hitpoints*<br>
-    **HP** 2 100 ![Buff](assets/buff-nerf/buff.png) **2 400**<br><br>
+    ![Hull upgrade](assets/steelhunter/tier_5_hull.png)<br><br>
     *Armor*<br>
-    **HP** 1 700 ![Buff](assets/buff-nerf/buff.png) **1 900**<br><br>
+    **HP boost** 400 ![Nerf](assets/buff-nerf/nerf.png) **300**<br><br>
     ![Turret upgrade](assets/steelhunter/tier_6_turret.png)<br>
     *Hitpoints*<br>
     **HP boost** 500 ![Buff](assets/buff-nerf/buff.png) **800**<br><br>
@@ -325,23 +323,23 @@
     **Reload time** 4.79 ![Buff](assets/buff-nerf/buff.png) **4.51**<br><br>
     ![Hull upgrade](assets/steelhunter/tier_5_hull.png)<br>
     *Rotation speed*<br>
-    **HP** 1 700 ![Buff](assets/buff-nerf/buff.png) **1 900**<br><br>
+    **HP boost** 500 ![Buff](assets/buff-nerf/buff.png) **600**<br><br>
     Armor<br>
-    **HP** 1 700 ![Buff](assets/buff-nerf/buff.png) **1 900**<br><br>
+    **HP boost** 500 ![Buff](assets/buff-nerf/buff.png) **600**<br><br>
     ![Gun upgrade](assets/steelhunter/tier_7_gun.png)<br>
     *Reload speed*<br>
-    **DPM (with Standard ammo)** 4 867 ![Buff](assets/buff-nerf/buff.png) **5 026**<br>
+    **DPM (with Standard ammo)** 4 278 ![Buff](assets/buff-nerf/buff.png) **5 026**<br>
     **Damage (standard/premium)** 350/280 ![Buff](assets/buff-nerf/buff.png) **360/290**<br>
     **Reload time** 4.31 ![Nerf](assets/buff-nerf/nerf.png) **4.41**<br><br>
     *Autoloader*<br>
-    **DPM (with Standard ammo)** 4 278 ![Buff](assets/buff-nerf/buff.png) **4 824**<br>
+    **DPM (with Standard ammo)** 4 278 ![Buff](assets/buff-nerf/buff.png) **5 026**<br>
     **Damage (standard/premium)** 350/280 ![Buff](assets/buff-nerf/buff.png) **375/300**<br><br>
     *Damage per shot*<br>
     **DPM (with Standard ammo)** 4 693 ![Buff](assets/buff-nerf/buff.png) **5 028**<br>
     **Reload time** 5.75 ![Buff](assets/buff-nerf/buff.png) **5.37**<br>
     ---
     ![Arlequin](assets/steelhunter/arlequin.png)<br>
-    ![France](assets/nations/France.png) **Arlequin**<br><br >
+    ![France](assets/nations/France.png) **Arlequin**<br><br>
     *Abilities*<br>
     ***Airstrike:*** ![Nerf](assets/buff-nerf/nerf.png) Still does little splash damage, but stuns you for 30 s and can destroy your tracks.<br><br>
     ![Stock](assets/steelhunter/tier_1.png)<br>
@@ -361,12 +359,13 @@
     *Autoloader*<br>
     **DPM (with Standard ammo)** 3 066 ![Buff](assets/buff-nerf/buff.png) **3 886**<br>
     **Penetration (standard/premium)** 135/145 ![Buff](assets/buff-nerf/buff.png) **150/200**<br>
+    **Charge time** 1 ![Nerf](assets/buff-nerf/nerf.png) **1.5**<br>
     **Shell velocity (standard/premium)** 1 000/1 200 ![Nerf](assets/buff-nerf/nerf.png) **600/900**<br><br>
     ![Hull upgrade](assets/steelhunter/tier_5_hull.png)<br>
     *Rotation speed*<br>
-    **HP** 1 200 ![Nerf](assets/buff-nerf/nerf.png) **1 100**<br><br>
+    **HP boost** 150 ![Nerf](assets/buff-nerf/nerf.png) **100**<br><br>
     *Hitpoints*<br>
-    **HP** 1 500 ![Nerf](assets/buff-nerf/nerf.png) **1 400**<br><br>
+    **HP boost** 450 ![Nerf](assets/buff-nerf/nerf.png) **400**<br><br>
     ![Turret upgrade](assets/steelhunter/tier_6_turret.png)<br>
     *Rotation speed*<br>
     **HP boost** 200 ![Buff](assets/buff-nerf/buff.png) **300**<br><br>
@@ -381,6 +380,7 @@
     **DPM (with Standard ammo)** 3 598 ![Buff](assets/buff-nerf/buff.png) **4 569**<br>
     **Penetration (standard/premium)** 200/238 ![Buff](assets/buff-nerf/buff.png) **230/280**<br>
     **Reload time** 7.67 ![Buff](assets/buff-nerf/buff.png) **6.04**<br>
+    **Charge time** 1 ![Nerf](assets/buff-nerf/nerf.png) **1.5**<br>
     **Shell velocity (standard/premium)** 1 000/1 200 ![Nerf](assets/buff-nerf/nerf.png) **600/900**<br>
     **Dispersion** 0.29 ![Nerf](assets/buff-nerf/nerf.png) **0.34**<br>
     **Charge time** 1 ![Nerf](assets/buff-nerf/nerf.png) **1.5**<br><br>
@@ -414,12 +414,13 @@
     **Dispersion** 0.35 ![Buff](assets/buff-nerf/nerf.png) **0.38**<br><br>
     ![Hull upgrade](assets/steelhunter/tier_5_hull.png)<br>
     *Rotation speed*<br>
-    **HP** 1 800 ![Buff](assets/buff-nerf/buff.png) **2 000**<br><br>
+    **HP boost** 600 ![Buff](assets/buff-nerf/buff.png) **700**<br><br>
     *Hitpoints*<br>
-    **HP** 2 000 ![Buff](assets/buff-nerf/buff.png) **2 200**<br><br>
+    **HP boost** 800 ![Buff](assets/buff-nerf/buff.png) **900**<br><br>
     ![Gun upgrade](assets/steelhunter/tier_7_gun.png)<br>
     *Reload speed*<br>
     **DPM (with Standard ammo)** 5 562 ![Buff](assets/buff-nerf/nerf.png) **5 162**<br>
+    **Reload time** 3.45 ![Buff](assets/buff-nerf/nerf.png) **3.84**<br>
     **Damage (standard/premium)** 320/240 ![Buff](assets/buff-nerf/buff.png) **330/270**<br><br>
     *Autoreloader*<br>
     **DPM (with Standard ammo)** 5 284 ![Buff](assets/buff-nerf/nerf.png) **4 380**<br>
@@ -457,7 +458,7 @@
     **DPM (with Standard ammo)** 3 563 ![Buff](assets/buff-nerf/buff.png) **4 112**<br>
     **Damage (standard/premium)** 205/165 ![Buff](assets/buff-nerf/buff.png) **230/185**<br>
     **Reload time** 3.45 ![Buff](assets/buff-nerf/buff.png) **3.36**<br><br>
-    *Autoloader*<br>
+    *Burst Autoloader*<br>
     **DPM (with Standard ammo)** 3 301 ![Nerf](assets/buff-nerf/nerf.png)  **3 146**<br>
     **Damage (standard/premium)** 125/100 ![Buff](assets/buff-nerf/buff.png) **130/105**<br>
     **Reload time** 8.63 ![Nerf](assets/buff-nerf/nerf.png) **9.88**<br><br>
@@ -472,7 +473,7 @@
     *Hitpoints*<br>
     **HP boost** 500 ![Buff](assets/buff-nerf/buff.png) **700**<br><br>
     ![Gun upgrade](assets/steelhunter/tier_7_gun.png)<br>
-    *Autoloader*<br>
+    *Burst Autoloader*<br>
     **DPM (with Standard ammo)** 4 493 ![Nerf](assets/buff-nerf/nerf.png) **3 260**<br>
     **Penetration (standard/premium)** 210/248 ![Nerf](assets/buff-nerf/nerf.png) **200/238**<br>
     **Damage (standard/premium)** 145/120 ![Buff](assets/buff-nerf/buff.png) **150/125**<br>
@@ -521,18 +522,18 @@
     **Reload time** 3.74 ![Buff](assets/buff-nerf/nerf.png) **3.84**<br><br>
     ![Turret upgrade](assets/steelhunter/tier_6_turret.png)<br>
     *Rotation speed*<br>
-    **HP** boost 300 ![Buff](assets/buff-nerf/buff.png) **400**<br><br>
+    **HP boost** 300 ![Buff](assets/buff-nerf/buff.png) **400**<br><br>
     *Hitpoints*<br>
-    **HP** boost 300 ![Buff](assets/buff-nerf/buff.png) **400**<br><br>
+    **HP boost** 300 ![Buff](assets/buff-nerf/buff.png) **400**<br><br>
     ![Gun upgrade](assets/steelhunter/tier_7_gun.png)<br>
     *Autoloader (lower alpha)*<br>
-    **DPM (with Standard ammo)** 4 500 ![Buff](assets/buff-nerf/nerf.png) **4 419**<br>
+    **DPM (with Standard ammo)** 4 693 ![Buff](assets/buff-nerf/buff.png) **4 859**<br>
     **Damage (standard/premium)** 230/180 ![Buff](assets/buff-nerf/buff.png) **245/200**<br>
     **Reload time** 12.46 ![Buff](assets/buff-nerf/nerf.png) **14.29**<br><br>
     *Reload speed*<br>
     **DPM (with Standard ammo)** 4 693 ![Buff](assets/buff-nerf/nerf.png) **4 568**<br>
     **Damage (standard/premium)** 360/290 ![Buff](assets/buff-nerf/buff.png) **365/290**<br>
-    **Reload time** 4.6 ![Buff](assets/buff-nerf/nerf.png) **4.79**<br><br>
+    **Reload time** 4.6 ![Buff](assets/buff-nerf/buff.png) **4.51**<br><br>
     *Autoloader (bigger alpha)*<br>
     **DPM (with Standard ammo)** 4 310 ![Buff](assets/buff-nerf/buff.png) **4 560**<br>
     **Damage (standard/premium)** 320/260 ![Buff](assets/buff-nerf/buff.png) **340/270**
@@ -554,9 +555,9 @@
     **Reload time** 5.37 ![Buff](assets/buff-nerf/buff.png) **5.08**<br><br>
     ![Hull upgrade](assets/steelhunter/tier_5_hull.png)<br>
     *Hitpoints*<br>
-    **HP** 2 100 ![Buff](assets/buff-nerf/buff.png) **2 300**<br><br>
+    **HP boost** 800 ![Buff](assets/buff-nerf/nerf.png) **700**<br><br>
     *Armor*<br>
-    **HP** 1 700 ![Buff](assets/buff-nerf/buff.png) **1 900**<br><br>
+    **HP boost** 400 ![Buff](assets/buff-nerf/nerf.png) **300**<br><br>
     ![Turret upgrade](assets/steelhunter/tier_6_turret.png)<br>
     *Armor*<br>
     **HP boost** 300 ![Buff](assets/buff-nerf/buff.png) **400**<br><br>
