@@ -177,7 +177,7 @@
     **Terrain resistance (medium)** 1.29 ![Buff](assets/buff-nerf/buff.png) **0.12**<br>
     **Terrain resistance (soft)** 1.87 ![Buff](assets/buff-nerf/buff.png) **0.12**<br>
     **Tank traverse** 41.72 ![Buff](assets/buff-nerf/buff.png) **67.80**<br>
-    **Tank traverse (h/m/s)** 39.6/29.4/20.3 ![Nerf](assets/buff-nerf/nerf.png) **64.4/64.4/64.4**<br>
+    **Tank traverse (h/m/s)** 39.6/29.4/20.3 ![Buff](assets/buff-nerf/buff.png) **64.4/64.4/64.4**<br>
     ---
     ![Super Conqueror](assets/tanks/sconq.png)<br>
     **Super Conqueror**<br><br>
@@ -282,7 +282,8 @@
     *Damage per shot*<br>
     **DPM (with Standard ammo)** 2 878 ![Buff](assets/buff-nerf/buff.png) **3 059**<br>
     **Penetration (standard/premium)** 170/210 ![Nerf](assets/buff-nerf/nerf.png) **160/200**<br>
-    **Damage (standard/premium)** 460/370 ![Nerf](assets/buff-nerf/nerf.png) **440/350**<br><br>
+    **Damage (standard/premium)** 460/370 ![Nerf](assets/buff-nerf/nerf.png) **440/350**<br>
+    **Reload time** 9.59 ![Buff](assets/buff-nerf/buff.png) **8.63**<br><br>
     ![Hull upgrade](assets/steelhunter/tier_5_hull.png)<br><br>
     *Armor*<br>
     **HP boost** 400 ![Nerf](assets/buff-nerf/nerf.png) **300**<br><br>
