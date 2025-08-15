@@ -157,6 +157,25 @@
     **Dispersion** 0.34 ![Buff](assets/buff-nerf/buff.png) **0.32**<br><br>
     *Health and armor*<br>
     **HP** 2 100 ![Buff](assets/buff-nerf/buff.png) **2 300**<br>
+    ---
+    ![AMX 50 Foch B](assets/tanks/foch_b.png)<br>
+    **AMX 50 Foch B**<br><br>
+    *Gun*<br>
+    **Dispersion moving** 0.13 ![Nerf](assets/buff-nerf/nerf.png) **0.16**<br>
+    **Dispersion tank traverse** 0.13 ![Nerf](assets/buff-nerf/nerf.png) **0.16**<br>
+    **Dispersion turret traverse** 0.10 ![Nerf](assets/buff-nerf/nerf.png) **0.14**<br><br>
+    *Mobility*<br>
+    **Power (hp)** 1 150 ![Nerf](assets/buff-nerf/nerf.png) **1 120**<br>
+    **Power/weight (hp/t)** 20.47 ![Nerf](assets/buff-nerf/nerf.png) **19.94**<br>
+    **Effective top speed (medium terrain)** 48.69 ![Nerf](assets/buff-nerf/nerf.png) **47.42**<br>
+    **Effective top speed (soft terrain)** 32.46 ![Nerf](assets/buff-nerf/nerf.png) **31.61**<br>
+    **Effective traverse (medium terrain)** 26.01 ![Nerf](assets/buff-nerf/nerf.png) **25.06**<br>
+    *Terrain resistance*<br>
+    **Hard** 1.34 ![Nerf](assets/buff-nerf/nerf.png) **1.53**<br>
+    **Medium** 1.53 ![Nerf](assets/buff-nerf/nerf.png) **1.64**<br><br>
+    *Misc*<br>
+    **Max load (kg)** 59 560 ![Nerf](assets/buff-nerf/nerf.png) **56 180**<br>
+
 
 ## United Kingdom
 ??? spoiler "![UK](assets/nations/UK.png) United Kingdom"
