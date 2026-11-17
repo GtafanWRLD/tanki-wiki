@@ -10,6 +10,10 @@ If you’d like to contribute or have suggestions, feel free to [join our discor
 
 Enjoy exploring the wiki & Happy tanking!
 
+## Modpack coming soon
+
+We're putting together a modpack for Mir Tankov. Check back here for the download and setup instructions.
+
 ---
 
 
