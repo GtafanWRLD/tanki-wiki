@@ -10,8 +10,6 @@ If you’d like to contribute or have suggestions, feel free to [join our discor
 
 Enjoy exploring the wiki & Happy tanking!
 
-**The modpack is coming soon.**
-
 ---
 
 
