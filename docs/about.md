@@ -8,4 +8,4 @@ This project is community-driven and always open to contributions, feedback, or 
 
 If you want to help, suggest edits, or have any questions, feel free to get in touch.
 
-_Last updated: June 2025_
+_Last updated: November 2026_
