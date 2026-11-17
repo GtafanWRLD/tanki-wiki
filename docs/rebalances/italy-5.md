@@ -1,0 +1,29 @@
+# Italy · Tier V
+
+[All nations and tiers](../buffs_nerfs.md) · EU v20410 → RU v14600ru · 3 November 2026
+
+<div class="tank-finder"><label><strong>Find a tank</strong><input type="search" placeholder="Try is7, obj140 or xm57" aria-label="Find a tank" style="display:block;width:100%;padding:.7rem;border:1px solid #888;border-radius:4px;margin:.5rem 0;color:inherit;background:transparent"></label><div class="tank-results" role="status"></div></div>
+
+<details id="vehicle-p43"><summary>P.43 · Tier V</summary>
+<span style="display:none">p43</span>
+<p><a href="https://tanks.gg/v20410/tank/p43">EU stats</a> · <a href="https://tanks.gg/v14600ru/tank/p43">RU stats</a></p><figure style="display:inline-block"><img width="160" src="../../assets/vehicles/v20410-p43.png" alt="P.43"><figcaption>P.43</figcaption></figure><p><strong>Penetration (mm)</strong><br><b>EU</b> <span style="white-space:nowrap"><img width="20" style="vertical-align:middle" src="../../assets/ammo/ap.png" alt="AP" title="c.p. 75/50 Skoda (P43)"> AP <strong>118</strong></span> / <span style="white-space:nowrap"><img width="20" style="vertical-align:middle" src="../../assets/ammo/prem-apcr.png" alt="APCR" title="c.p. 75/50 (P43)"> APCR <strong>146</strong></span> / <span style="white-space:nowrap"><img width="20" style="vertical-align:middle" src="../../assets/ammo/he-modern.png" alt="HE" title="c.g. 75/50 mod. 37 Skoda (P43)"> HE <strong>75</strong></span> → <b>RU</b> <span style="white-space:nowrap"><img width="20" style="vertical-align:middle" src="../../assets/ammo/ap.png" alt="AP" title="c.p. 75/50 Skoda"> AP <strong>118</strong></span> / <span style="white-space:nowrap"><img width="20" style="vertical-align:middle" src="../../assets/ammo/prem-apcr.png" alt="APCR" title="c.p. 75/50"> APCR <strong>146</strong></span> / <span style="white-space:nowrap"><img width="20" style="vertical-align:middle" src="../../assets/ammo/he-modern.png" alt="HE" title="c.g. 75/50 mod. 37 Skoda"> HE <strong>38</strong></span></p><p><em>Mobility</em><br>
+<strong>Tank traverse on hard terrain (°/s)</strong> <span style="white-space:nowrap"><small>EU</small> 52.29</span> <img src="../../assets/buff-nerf/buff.png" alt="Buff" style="vertical-align:middle"> <span style="white-space:nowrap"><small>RU</small> <strong>63.85</strong></span><br>
+<strong>Tank traverse on medium terrain (°/s)</strong> <span style="white-space:nowrap"><small>EU</small> 47.54</span> <img src="../../assets/buff-nerf/buff.png" alt="Buff" style="vertical-align:middle"> <span style="white-space:nowrap"><small>RU</small> <strong>58.04</strong></span><br>
+<strong>Tank traverse on soft terrain (°/s)</strong> <span style="white-space:nowrap"><small>EU</small> 21.79</span> <img src="../../assets/buff-nerf/buff.png" alt="Buff" style="vertical-align:middle"> <span style="white-space:nowrap"><small>RU</small> <strong>26.60</strong></span><br></p>
+<p><em>Armor &amp; health</em><br>
+<strong>Health</strong> <span style="white-space:nowrap"><small>EU</small> 660</span> <img src="../../assets/buff-nerf/nerf.png" alt="Nerf" style="vertical-align:middle"> <span style="white-space:nowrap"><small>RU</small> <strong>600</strong></span><br></p>
+</details>
+
+<details id="vehicle-smv-m41"><summary>Semovente M41 · Tier V</summary>
+<span style="display:none">semoventem41</span>
+<p><a href="https://tanks.gg/v20410/tank/smv-m41">EU stats</a> · <a href="https://tanks.gg/v14600ru/tank/semovente">RU stats</a></p><figure style="display:inline-block"><img width="160" src="../../assets/vehicles/v20410-smv-m41.png" alt="Semovente M41"><figcaption>Semovente M41</figcaption></figure><p><em>Mobility</em><br>
+<strong>Forward speed (km/h)</strong> <span style="white-space:nowrap"><small>EU</small> 45</span> <img src="../../assets/buff-nerf/nerf.png" alt="Nerf" style="vertical-align:middle"> <span style="white-space:nowrap"><small>RU</small> <strong>35</strong></span><br>
+<strong>Forward speed on hard terrain (km/h)</strong> <span style="white-space:nowrap"><small>EU</small> 45</span> <img src="../../assets/buff-nerf/nerf.png" alt="Nerf" style="vertical-align:middle"> <span style="white-space:nowrap"><small>RU</small> <strong>35</strong></span><br>
+<strong>Forward speed on medium terrain (km/h)</strong> <span style="white-space:nowrap"><small>EU</small> 45</span> <img src="../../assets/buff-nerf/nerf.png" alt="Nerf" style="vertical-align:middle"> <span style="white-space:nowrap"><small>RU</small> <strong>35</strong></span><br>
+<strong>Tank traverse on hard terrain (°/s)</strong> <span style="white-space:nowrap"><small>EU</small> 48.99</span> <img src="../../assets/buff-nerf/buff.png" alt="Buff" style="vertical-align:middle"> <span style="white-space:nowrap"><small>RU</small> <strong>74.23</strong></span><br>
+<strong>Tank traverse on medium terrain (°/s)</strong> <span style="white-space:nowrap"><small>EU</small> 41.45</span> <img src="../../assets/buff-nerf/buff.png" alt="Buff" style="vertical-align:middle"> <span style="white-space:nowrap"><small>RU</small> <strong>62.81</strong></span><br>
+<strong>Tank traverse on soft terrain (°/s)</strong> <span style="white-space:nowrap"><small>EU</small> 23.43</span> <img src="../../assets/buff-nerf/buff.png" alt="Buff" style="vertical-align:middle"> <span style="white-space:nowrap"><small>RU</small> <strong>35.50</strong></span><br></p>
+<p><em>Armor &amp; health</em><br>
+<strong>Health</strong> <span style="white-space:nowrap"><small>EU</small> 500</span> <img src="../../assets/buff-nerf/nerf.png" alt="Nerf" style="vertical-align:middle"> <span style="white-space:nowrap"><small>RU</small> <strong>460</strong></span><br>
+<strong>Health · engine</strong> <span style="white-space:nowrap"><small>EU</small> 140</span> <img src="../../assets/buff-nerf/nerf.png" alt="Nerf" style="vertical-align:middle"> <span style="white-space:nowrap"><small>RU</small> <strong>104</strong></span><br></p>
+</details>

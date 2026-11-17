@@ -40,3 +40,6 @@ nav:
   - Mods: mods.md
   - About: about.md
   # etc.
+
+extra_javascript:
+  - assets/tank-search.js
